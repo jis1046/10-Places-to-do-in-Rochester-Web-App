@@ -1,0 +1,135 @@
+{
+    "places": [
+    {
+        "id": 1,
+
+        "name": "The Strong National Museum of Play",
+
+        "description": "The Strong is a highly interactive, collections-based museum devoted to the history and exploration of play. It is one of the largest history museums in the United States and one of the leading museums serving families. The Strong houses the world's largest and most comprehensive collection of historical materials related to play and is home to the International Center for the History of Electronic Games, the National Toy Hall of Fame, and the World Video Game Hall of Fame.",
+    
+        "address": "1 Manhattan Square Dr, Rochester, NY 14607",
+
+        "website": "https://www.museumofplay.org/",
+
+        "image": "../assets/img/strongMuseum.jpg"
+    },
+    {
+        "id": 2,
+
+        "name": "George Eastman Museum",
+
+        "description": "The George Eastman Museum is located in Rochester, New York, on the estate of George Eastman, the pioneer of popular photography and motion picture film. Founded in 1947 as an independent nonprofit institution, it is the world's oldest photography museum and one of the oldest film archives. The museum holds unparalleled collections-encompassing several million objects-in the fields of photography, cinema, and photographic and cinematographic technology, and photographically illustrated books. The institution is also a longtime leader in film preservation and photographic conservation.",
+
+        "address": "900 East Ave, Rochester, NY 14607",
+
+        "website": "https://www.eastman.org/",
+
+        "image": "../assets/img/georgeEastmanMuseum.jpg"
+    },
+    {
+        "id": 3,
+
+        "name": "Seneca Park Zoo",
+
+        "description": "Seneca Park Zoo inspires our community to connect with, care for, and conserve wildlife and wild places. When you visit the Zoo, you will see signs of transformation. Enjoy the new Cold Asia habitats for snow leopard and red panda and Animals of the Savanna expansion. featuring Masai giraffes, plains zebras, a white rhino, and many smaller species. Take the tram and shop in the Savanna Outpost. Enjoy the expansive Tropics Adventure Zone where the Main Building used to stand, and imagine the possibilities with the tropics complex that will be built in that space over the next several years. Your visit directly helps save animals from extinction, as you support the efforts of Seneca Park Zoo, a national leader in species survival and conservation action. Plan your visit today at senecaparkzoo.org.",
+
+        "address": "2222 St Paul St, Rochester, NY 14621",
+
+        "website": "https://senecaparkzoo.org/",
+
+        "image": "../assets/img/senecaZoo.jpg"
+    },
+    {
+        "id": 4,
+
+        "name": "Rochester Museum & Science Center",
+
+        "description": "Rochester Museum & Science Center inspires a passion for science and technology through interactive exhibits, collections, and programs that engage, educate, and entertain. The RMSC is a dynamic community resource that connects people to the world around them by making science relevant and accessible. Through its museums, planetarium, and educational programs, the RMSC provides opportunities for hands-on learning and discovery in the fields of science, technology, engineering, and mathematics (STEM).",
+
+        "address": "657 East Ave, Rochester, NY 14607",
+
+        "website": "https://rmsc.org/",
+
+        "image": "../assets/img/rocMuseum&SciCenter.jpg"
+    },
+    {
+        "id": 5,
+
+        "name": "Genesee High Falls",
+
+        "description": "The Genesee River flows through the heart of Rochester, New York, and is home to three waterfalls, including the 96-foot-high High Falls. The falls are located in the Genesee Gorge, which is a popular spot for hiking and photography. The High Falls are particularly impressive, as they are one of the few urban waterfalls in the United States. Visitors can view the falls from several vantage points, including a pedestrian bridge that spans the gorge. The falls are especially beautiful in the spring when the water flow is at its peak.",
+    
+        "address": "4 Commerice St, Rochester, NY 14614",
+
+        "website": "https://www.cityofrochester.gov/genesee-river",
+
+        "image": "../assets/img/geneseeHighFalls.jpg"
+    },
+    {
+        "id": 6,
+
+        "name": "Rochester Public Market",
+
+        "description": "Rochester Public Market is a vibrant and bustling marketplace that has been a staple of the Rochester community since 1905. The market features over 300 vendors selling a wide variety of fresh produce, meats, cheeses, baked goods, and artisanal products. In addition to the food vendors, the market also hosts a number of specialty shops, including flower stands, clothing boutiques, and craft vendors. The market is open year-round, with outdoor vendors operating from May to November and indoor vendors operating year-round. The Rochester Public Market is a great place to experience the local culture and cuisine of Rochester.",
+    
+        "address": "280 N Union St, Rochester, NY 14609",
+
+        "website": "https://www.cityofrochester.gov/departments/department-recreation-and-human-services-drhs/public-market",
+
+        "image": "../assets/img/rocPublicMarket.jpg"
+    },
+    {
+        "id": 7,
+
+        "name": "Seabreeze Amusement Park",
+
+        "description": "Seabreeze, the fourth oldest park in America, is located on the scenic bluffs overlooking Lake Ontario north of Rochester. Enjoy the excitement of four roller coasters, a classic wooden carousel, thrill rides, family and kiddie rides, a midway of food and games and live shows daily. There's also a full water park with wave pool, tube slides, body flumes, lazy river, kiddie slides and more. The 1920 Jack Rabbit wooden roller coaster is listed as the oldest continuously operating coaster in America. The park is a classic combination of traditional amusement park and modern water park. Open daily mid-June through Labor Day; also open weekends in May, early June and early September.",
+
+        "address": "4600 Culver Rd, Rochester, NY 14622",
+
+        "website": "https://seabreeze.com/",
+
+        "image": "../assets/img/seabreeze.jpg"
+    },
+    {
+        "id": 8,
+
+        "name": "Memorial Art Gallery",
+
+        "description": "A visit to the Memorial Art Gallery is a journey through more than 5,000 years of art history. From the relics of antiquity to works in the vanguard of contemporary movements, the Gallery offers a panorama of the world's art. With the completion of Centennial Sculpture Park, the Gallery's 14-acre campus has been transformed into a spectacular urban space that is a destination for Rochesterians and visitors alike.",
+
+        "address": "500 University Ave, Rochester, NY 14607",
+
+        "website": "https://mag.rochester.edu/",
+
+        "image": "../assets/img/memoralArtGallery.jpg"
+    },
+    {
+        "id": 9,
+
+        "name": "Wickham Farm",
+
+        "description": "Local family owned farm serving up farm fresh family fun in Penfield, NY since 1986. The farm attracts many visitors each fall seeking the perfect pumpkin, pick your own apples, fresh baked goods and a taste of good old fashioned fall fun. The farm offers hayrides, corn mazes and many other fall fun activities from September to Halloween. Come during the summer months for other farm festivals such as our annual Sunflower Spectacular Festival and fun activities such as our 18 hole mini golf course, the giant jumping pillow, kiddie train, farm animals & more. The farm also grows fresh vegetables on the property for its 300 plus member CSA (community supported agriculture) / harvest share program. The program lasts for a total of 18 weeks. Members enjoy fresh fruit, produce & flowers.",
+
+        "address": "1315 Sweets Corners Rd, Penfield, NY 14526",
+
+        "website": "https://wickhamfarms.com/",
+
+        "image": "../assets/img/wickhamFarm.jpg"
+    },
+    {
+        "id": 10,
+
+        "name": "Innovative Field",
+
+        "description": "Innovative Field is a baseball stadium located in Rochester, New York. It is the home of the Rochester Red Wings, the Triple-A affiliate of the Washington Nationals. The stadium opened in 1997 and has a seating capacity of 10,840. Innovative Field is known for its picturesque views of the Rochester skyline and the Genesee River. The stadium also features a number of amenities, including luxury suites, a picnic area, and a kids' play area. In addition to baseball games, Innovative Field also hosts concerts and other events throughout the year.",
+        
+        "address": "One Morrie Silver Way, Rochester, NY 14608",
+
+        "website": "https://www.milb.com/rochester",
+
+        "image": "../assets/img/redwings.jpg"
+    }
+    ]
+    
+}

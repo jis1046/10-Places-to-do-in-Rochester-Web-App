@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 10 Places to do in Rochester</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#4CAF50">
+    <script>
+        //registering the service worker
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register("sw.js").then(
+                (registration) => {
+                    console.log('Service Worker Registered');
+                    console.log(registration);
+                }
+            )
+
+        .catch((error) => {
+            console.log('Service Worker Registration Failed');
+            console.log(error);
+        });
+        }
+
+        else{
+            console.log('Service workers are not supported.');
+        }
+    </script>
+</head>
+<body>
+    <div id="list-container">
+    </div>
+    <nav>
+        <ul>
+            <li><a href="mainPage.html" id="nav-home">Home</a></li>
+            <li><a href="favorites.html" id="nav-favorites">Favorites</a></li>
+        </ul>
+    </nav>
+    <script src="main.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+    "name": "Top 10 Places in Rochester",
+    "short_name": "RochTop10Places",
+    "description": "A list of the top 10 places to visit in Rochester, NY.",
+    "start_url": "mainPage.html",
+    "display": "standalone",
+    "background_color": "#f8f9fa", 
+    "theme_color": "#343a40",
+    "icons": [
+        {
+            "src": "assets/icons/rocIcon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
