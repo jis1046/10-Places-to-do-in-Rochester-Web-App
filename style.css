@@ -136,7 +136,6 @@ h2{
 
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.2rem;
     line-height: 1.5;
 }
 
@@ -177,6 +176,12 @@ li{
         max-width: 4000px;
     }
     
+    #no-favorites-message{
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 35%;
+        
+    }
 }
 
 @media screen and (min-width: 1055px) {
@@ -222,6 +227,13 @@ li{
         max-width: 4000px;
         align-items: center;
         margin-left: 10%;
+    }
+
+    #no-favorites-message{
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 25%;
+        
     }
 
 }
