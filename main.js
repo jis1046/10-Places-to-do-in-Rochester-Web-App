@@ -157,7 +157,8 @@ function displayPlaceDetails(place) {
 function displayFavoritesList(places) {
 
     if (places.length === 0) {
-        favoritesContainer.innerHTML = `<p>No favorites selected.</p>`;
+        favoritesContainer.innerHTML = `<h1 id = "no-favorites-message">No favorites selected</h1>`;
+        console.log("No favorites to display.");
         return;
     }
 
