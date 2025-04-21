@@ -5,12 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Top 10 Places to do in Rochester</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#4CAF50">
     <script>
         //registering the service worker
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register("sw.js").then(
+            navigator.serviceWorker.register("src/sw.js").then(
                 (registration) => {
                     console.log('Service Worker Registered');
                     console.log(registration);
@@ -37,7 +36,7 @@
             <li><a href="favorites.html" id="nav-favorites">Favorites</a></li>
         </ul>
     </nav>
-    <script src="main.js"></script>
+    <script src="src/main.js"></script>
     
 </body>
 </html>
