@@ -1,4 +1,4 @@
-<h1>To Places to do in Rochester</h1>
+<h1>Ten Places to do in Rochester Web App</h1>
 
 <p>Designed and developed progressive web application about 10 places to visit in Rochester with frontend code: HTML, CSS, and Javascript. The main goals of this web app is to have mobile-like app features and interface, responsive design for mobile, tablet, and desktop, and develop local storage to store and display favorite places.</p>
 
