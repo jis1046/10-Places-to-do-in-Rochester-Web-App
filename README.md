@@ -9,6 +9,7 @@
   <ul>
     <li>URL should not have any directories before "10-Places-to-do-in-Rochester-Web-App"</li>
     <li>It should look like this: http://127.0.0.1:5500/mainPage.html</li>
+    <li>It may work only on Chrome</li>
   </ul>
   <li>Right click then click ‘inspect’</li>
   <li>Click ‘Dimension Responsive’ then pick any mobile devices you like</li>
